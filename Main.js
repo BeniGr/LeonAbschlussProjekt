@@ -1,4 +1,4 @@
-const BALL_NUM = 600;
+const BALL_NUM = 200;
 const Ball_RADIUS = window.screen.width * 0.0058548;
 const COLORS = [[85, 71, 106], [174, 61, 99], [219, 56, 83], [244, 92, 68], [248, 182, 70]];
 const PI_2 = 2 * Math.PI
