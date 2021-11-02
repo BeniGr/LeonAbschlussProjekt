@@ -73,7 +73,7 @@ f.load().then(function (font) {
         ctx.fillStyle = "white";
         ctx.textAlign = "center";
         ctx.fillText("Alles Gute", canvas.width / 2, canvas.height / 2 - 25);
-        ctx.fillText("zum Bachelor", canvas.width / 2, canvas.height / + 75);
+        ctx.fillText("zum Bachelor", canvas.width / 2, canvas.height /2 + 75);
         raf = window.requestAnimationFrame(loop);
     }
 
